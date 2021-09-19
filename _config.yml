@@ -1,0 +1,18 @@
+title: HAGGANG SA HULING HININGA LINGAYEN PANGASINAN
+email: rey52090@gmail.com
+description: >- # This mean ignore newlines until base url;
+LINGAYEN PANGASINAN
+baseurl: https://rey5209.github.io/INC_CFO_File/Sanjacinto.html
+url: https://rey5209.github.io/INC_CFO_File
+twitter_username:
+github_username: rey5209
+author: Rey Ramos Tuñacao
+
+# Build Settings 
+Markdown:  kramdown  
+paginate:  10
+paginate_path:  "/post/page/page:num"
+plugins:
+ - jekyll-feed
+ - jekyll-pageniate
+ - jekyll-sitemap ## uncomment this line to silently generate a sitemaps.org compliant sitemap for your jekyll site
